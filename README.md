@@ -461,14 +461,14 @@ To see that even good pianists can start this way see: <br>
 
 * One example of a MIDI to USB adapter that is class compliant and works on Linux. <br>
   Swissonic MidiConnect 2 <br>
-  [https://www.thomann.de/pt/swissonic_midiconnect_2.htm](https://www.thomann.de/pt/swissonic_midiconnect_2.htm) 
+  [https://www.thomann.de/swissonic_midiconnect_2.htm](https://www.thomann.de/swissonic_midiconnect_2.htm) 
 
 5. The next best thing, is a MIDI Keyboard Controller, you can choose a heavy weighted keys MIDI Controller or a synth keys MIDI Controller. In this regard, I have search so many controllers but my current best option for a good controller, at a low price, that as a solid solid built and is USB Class compliant, so that it can work well with no drivers on Linux. The touch of the keys is nice for the price. They are:
 
 * Swissonic EasyKey 49
 
 * Swissonic EasyKey 61  (I would choose this one) 5.6 Kg Aluminum chassis <br>
-  [https://www.thomann.de/pt/swissonic_easykey_61.htm](https://www.thomann.de/pt/swissonic_easykey_61.htm) 
+  [https://www.thomann.de/swissonic_easykey_61.htm](https://www.thomann.de/swissonic_easykey_61.htm) 
 
 See the following video: <br>
 
@@ -483,15 +483,15 @@ See the following video: <br>
 To generate the piano sound, you can connect to your computer and use it’s internal audio interface or use a good and cheap external USB Linux compatible audio interface like the following two alternatives, and use the speakers or the headphones: <br>
 
 * Swissonic UA-2x2 <br>
-  [https://www.thomann.de/pt/swissonic_ua_2x2.htm](https://www.thomann.de/pt/swissonic_ua_2x2.htm) 
+  [https://www.thomann.de/swissonic_ua_2x2.htm](https://www.thomann.de/swissonic_ua_2x2.htm) 
 
 * Behringer U-Phoria UMC202HD <br>
-  [https://www.thomann.de/pt/behringer_u_phoria_umc202hd.htm](https://www.thomann.de/pt/behringer_u_phoria_umc202hd.htm) 
+  [https://www.thomann.de/behringer_u_phoria_umc202hd.htm](https://www.thomann.de/behringer_u_phoria_umc202hd.htm) 
 
 Good quality and comfortable the headphones, that can go down to 16 Hz so that you can ear, with easy, even the lowest piano music note the A2 – 27 Hz: <br>
 
 * AKG K-92 <br>
-  [https://www.thomann.de/pt/akg_k_92.htm](https://www.thomann.de/pt/akg_k_92.htm) 
+  [https://www.thomann.de/akg_k_92.htm](https://www.thomann.de/akg_k_92.htm) 
 
 Then for a good piano sound, use the free and really good piano sound fonts, that works even on Linux or Raspberry Pi (and windows and MAC). See the section below. <br>
 
@@ -810,10 +810,10 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
 To generate the piano sound, you can connect to your computer and use it’s internal audio interface or use a good and cheap external USB Linux compatible audio interface like the following two alternatives, and use the speakers or the phones: <br>
 
 * Swissonic UA-2x2 <br>
-  [https://www.thomann.de/pt/swissonic_ua_2x2.htm](https://www.thomann.de/pt/swissonic_ua_2x2.htm) 
+  [https://www.thomann.de/swissonic_ua_2x2.htm](https://www.thomann.de/swissonic_ua_2x2.htm) 
 
 * Behringer U-Phoria UMC202HD <br>
-  [https://www.thomann.de/pt/behringer_u_phoria_umc202hd.htm](https://www.thomann.de/pt/behringer_u_phoria_umc202hd.htm) 
+  [https://www.thomann.de/behringer_u_phoria_umc202hd.htm](https://www.thomann.de/behringer_u_phoria_umc202hd.htm) 
 
 They also have a headphones output with volume control and you can connect to them a instrument Hi-Z Jack (example Electric Guitar or Acustic / Classical Guitar internal sound system). Or externally you can connect a Condenser Microphone (2 channels XLR with 48V fantom power to up to two microphone) to record directly you acoustic guitar sounds or tour vocals.
 
@@ -823,12 +823,12 @@ They also have a headphones output with volume control and you can connect to th
 In the market there are very good and very expensive large diaphragm condenser microphones, one of the best of the not incredible expensive ones is the: <br>
 
 * Rode NT1-A Complete Vocal Recording <br>
-  [https://www.thomann.de/pt/rode_nt1a_complete_vocal_recording.htm](https://www.thomann.de/pt/rode_nt1a_complete_vocal_recording.htm) 
+  [https://www.thomann.de/rode_nt1a_complete_vocal_recording.htm](https://www.thomann.de/rode_nt1a_complete_vocal_recording.htm) 
 
 From what I can search and in my opinion, a good one on the cheaper side of things is the: <br>
 
 * the t.bone SC 400 + Popkiller <br>
-  [https://www.thomann.de/pt/the_tbone_sc400_popkiller.htm](https://www.thomann.de/pt/the_tbone_sc400_popkiller.htm) 
+  [https://www.thomann.de/the_tbone_sc400_popkiller.htm](https://www.thomann.de/the_tbone_sc400_popkiller.htm) 
 
 
 # Configuring all things to work on Linux (Ubuntu / Debian) with open source software
