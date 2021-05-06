@@ -55,6 +55,9 @@ It’s the foundation of all music, you can learn an instrument by ear and imita
 
 ## Books
 
+* Harmony and Theory: A Comprehensive Source for All Musicians <br>
+  by Keith Wyatt
+
 * Music Theory: From Beginner to Expert 3rd Edition <br>
   by Nicolas Carter
 
