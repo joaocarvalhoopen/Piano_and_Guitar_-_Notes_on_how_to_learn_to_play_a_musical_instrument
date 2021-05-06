@@ -158,7 +158,10 @@ The guitars that I like that are good and economic are from: <br>
 
 ## Solutions for the big hands or the fat fingers problem.
 
-I live in Portugal and APC Instruments - António Pinto de Carvalho - that is the largest European Luthier, and it's headquarters and production is in Braga Portugal. They do guitars by hand, they makes guitars of all types, shapes and sizes at good prices. A typical classical guitar nut is 52 mm and for large hands or fat fingers, that can be too small, but if you ask APC they will take there normal line of 7 (60mm nut) or 8 strings (70mm nut) guitars and apply a 6 string custom bridge and a custom nut, so that you can have a large inter string distance in the 6 strings. They do this for just, a really small amount.
+I live in Portugal and APC Instruments - António Pinto de Carvalho - that is the largest European Luthier, and it's headquarters and production are in Braga Portugal. They do guitars by hand, they makes guitars of all types, shapes and sizes at good prices. A typical classical guitar nut is 52 mm and for large hands or fat fingers, that can be too small, but if you ask APC they will take there normal line of 7 (60mm nut) or 8 strings (70mm nut) guitars and apply a 6 string custom bridge and a custom nut, so that you can have a large inter string distance in the 6 strings. They do this for just, a really small amount.
+
+* APC Instruments – António Pinto de Carvalho <br>
+  [https://apc-instruments.com/](https://apc-instruments.com/)
 
 
 ## How to tune your guitar
