@@ -315,6 +315,9 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
 
 ## Especially good lessons
 
+* 5 DIY Guitar Hacks - Hannah Murphy <br>
+  [https://www.youtube.com/watch?v=xh0O_5dlumk&list=PLKwssySZ-oocYh1JVRSdpznzRRSkrS2BU&index=4](https://www.youtube.com/watch?v=xh0O_5dlumk&list=PLKwssySZ-oocYh1JVRSdpznzRRSkrS2BU&index=4)
+
 * This Should Be Everyone’s First Guitar Lesson <br>
   [https://www.youtube.com/watch?v=w4a2ge9N31E](https://www.youtube.com/watch?v=w4a2ge9N31E) 
 
