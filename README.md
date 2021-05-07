@@ -813,6 +813,10 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
   The SECRET to become FAST & STEADY on the PIANO <br>
   [https://www.youtube.com/watch?v=B0GK-TMLYpg](https://www.youtube.com/watch?v=B0GK-TMLYpg) 
 
+* In Portuguese - Felipe Scagliusi - 10 músicas que TODO estudante de piano DEVE conhecer... <br>
+  10 pieces that you should know <br>
+  [https://www.youtube.com/watch?v=fD8r1CMwSN8](https://www.youtube.com/watch?v=fD8r1CMwSN8)
+
 
 # Finding a good and cheap Audio Interface that works on Linux
 
