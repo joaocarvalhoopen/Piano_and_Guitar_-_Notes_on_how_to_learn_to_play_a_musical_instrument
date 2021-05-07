@@ -848,7 +848,7 @@ To see how to configure all the open source programs, study the following web pa
 * Video - How do I prepare Debian for Audio Production <br>
   [https://www.youtube.com/watch?v=2HkV8d6_vBc](https://www.youtube.com/watch?v=2HkV8d6_vBc) 
 
-* Add also the repositories of Debian of KXStudio <br>
+* Add also the repositories for Debian / Ubuntu of KXStudio <br>
   [https://kx.studio/Repositories](https://kx.studio/Repositories) <br>
   to have access to the applications and plugin that don't existe or more recent, or compiled with optimizations, when comparing with the normal Debian repositories.
 
