@@ -850,7 +850,7 @@ To see how to configure all the open source programs, study the following web pa
 
 * Add also the repositories for Debian / Ubuntu of KXStudio <br>
   [https://kx.studio/Repositories](https://kx.studio/Repositories) <br>
-  to have access to the applications and plugin that don't existe or more recent, or compiled with optimizations, when comparing with the normal Debian repositories.
+  to have access to the applications and plugins that don't existe or are more recent, or are compiled with optimizations, when comparing with the normal Debian repositories.
 
 For the Raspberry Pi, see: <br>
 
