@@ -304,6 +304,8 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
 * Your Guitar Academy free course <br>
   [https://yourguitaracademy.com/courses](https://yourguitaracademy.com/courses) 
 
+* Thu Le - Guitar Techniques <br>
+  [https://www.youtube.com/playlist?list=PLDJ0fHPNiMcLd90fcTfmcrygNfdm8mVJc](https://www.youtube.com/playlist?list=PLDJ0fHPNiMcLd90fcTfmcrygNfdm8mVJc)
 
 ## Youtube to learn to play songs
 
