@@ -150,9 +150,10 @@ The beautiful string instrument :-D
 The guitars that I like that are good and economic are from: <br>
 
 * APC Instruments – António Pinto de Carvalho <br>
+  Fantastic quality instruments at low prices, made in the north of Portugal, in Braga. <br>
   [https://apc-instruments.com/](https://apc-instruments.com/) 
 
-* Thomann's brand, the Harley Benton’s good and economic guitars <br>
+* Thomann's own name range of classical guitars brand and the other Thomann's brand, the Harley Benton’s, good and economic guitars <br>
   [https://harleybenton.com/](https://harleybenton.com/) 
 
 * And Yamaha C70 Classical guitar <br>
@@ -161,7 +162,7 @@ The guitars that I like that are good and economic are from: <br>
 
 ## Solutions for the big hands or the fat fingers problem.
 
-I live in Portugal and APC Instruments - António Pinto de Carvalho - that is the largest European Luthier, and it's headquarters and production are in Braga Portugal. They do guitars by hand, they makes guitars of all types, shapes and sizes at good prices. A typical classical guitar nut is 52 mm and for large hands or fat fingers, that can be too small, but if you ask APC they will take there normal line of 7 (60mm nut) or 8 strings (70mm nut) guitars and apply a 6 string custom bridge and a custom nut, so that you can have a large inter string distance in the 6 strings. They do this for just, a really small amount.
+I live in Portugal and APC Instruments - António Pinto de Carvalho - that is the largest European Luthier, it's headquarters and production are in the city of Braga in the north of Portugal. They do guitars by hand, they make guitars and wood string instruments of all types, shapes and sizes at good prices. A typical classical guitar nut is 52 mm and for large hands or fat fingers, that can be too small. But if you ask APC they will take there normal line of 7 (60mm nut) or 8 strings (70mm nut) guitars and apply a 6 string custom bridge and a custom nut in the factory, so that you can have a large string inter-distance in a 6 strings. They do this for just, a really small amount. They made an incredible high quality guitar instrument for me at a very low price.
 
 * APC Instruments – António Pinto de Carvalho <br>
   [https://apc-instruments.com/](https://apc-instruments.com/)
@@ -847,6 +848,9 @@ To see how to configure all the open source programs, study the following web pa
 * Video - How do I prepare Debian for Audio Production <br>
   [https://www.youtube.com/watch?v=2HkV8d6_vBc](https://www.youtube.com/watch?v=2HkV8d6_vBc) 
 
+* Add also the repositories of Debian of KXStudio <br>
+  [https://kx.studio/Repositories](https://kx.studio/Repositories) <br>
+  to have access to the applications and plugin that don't existe or more recent, or compiled with optimizations, when comparing with the normal Debian repositories.
 
 For the Raspberry Pi, see: <br>
 
