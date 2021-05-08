@@ -10,6 +10,8 @@ My notes for the intrepid adventurer!
   - [Books](#books)
   - [Youtube channels and videos](#youtube-channels-and-videos)
   - [Sites](#sites)
+- [Ear training and sight singing](#ear-training-and-sight-singing)
+  - [Books](#books-1)
 - [Guitar](#guitar)
   - [Finding a good and economic guitar](#finding-a-good-and-economic-guitar)
   - [Solutions for the big hands or the fat fingers problem.](#solutions-for-the-big-hands-or-the-fat-fingers-problem)
@@ -88,6 +90,21 @@ It’s the foundation of all music, you can learn an instrument by ear and imita
 * The Jazz Piano Book <br>
   by Mark Levine
 
+* Basic Materials in Music Theory: A Programmed Approach, 12th Edition <br>
+  by Greg A Steinke, Paul O. Harder
+
+* Harmonic Materials in Tonal Music: A Programmed Course, Part 1, 10th Edition <br>
+  by Greg Steinke
+
+* Harmonic Materials in Tonal Music: A Programmed Course, Part 2, 10th Edition <br>
+  by Greg Steinke
+
+* The Study of Counterpoint: From Johann Joseph Fux's Gradus Ad Parnassum <br>
+  by Johann Joseph Fux and Alfred Mann
+
+* Contemporary Counterpoint: Theory & Application <br>
+  by Beth Denisch
+
 * Hearing and writing music professional training for todays musician <br>
   by Ron Gorow
 
@@ -132,6 +149,39 @@ It’s the foundation of all music, you can learn an instrument by ear and imita
 
 * musictheory.net <br>
   [https://www.musictheory.net/lessons](https://www.musictheory.net/lessons) 
+
+
+<br>
+
+---
+
+<br>
+
+
+# Ear training and sight singing
+
+Ear training is an important thing to work on because it helps a lot in the process of learning a musical instrument, it helps to understand more the music we listen and it helps our singing. But sight singing also helps ear training, the tree things give positive feedback to each other and that is always a good thing. After that you can go on to music analysis.
+
+
+## Books
+
+* First Steps to Ear Training <br>
+  by William Curtis
+
+* Ear Training for the Contemporary Musician <br>
+  by Joe Elliott, Carl Schroeder, et al.
+
+* Music for Ear Training <br>
+  by Michael Horvit, Timothy Koozin, et al.
+
+* Music for Sight Singing <br>
+  by Thomas E. Benjamin, Michael Horvit, et al.
+
+* Music for Sight Singing, 10th Edition <br>
+  by Nancy Rogers, Robert Ottman
+
+* Music for Analysis: Examples from the Common Practice Period and the Twentieth Century <br>
+  by Thomas Benjamin, Michael Horvit, et al.
 
 
 <br>
@@ -247,13 +297,25 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
 * Hal Leonard Guitar Method - Complete Edition: Books 1, 2 and 3 2th Edition <br>
   by Will Schmid, Greg Koch
 
+* Video Play List - Hal Leonard Guitar Method Book 1 <br>
+  [https://www.youtube.com/playlist?list=PLMFLV1svOUsTnZiH9Zo9PkNwJMFljRNuA](https://www.youtube.com/playlist?list=PLMFLV1svOUsTnZiH9Zo9PkNwJMFljRNuA)
+
+* Video Play List - Hal Leonard Guitar Method Book 2 <br>
+  [https://www.youtube.com/playlist?list=PLMFLV1svOUsQ3eGQmLTvtrQKzUUAD2ZOj](https://www.youtube.com/playlist?list=PLMFLV1svOUsQ3eGQmLTvtrQKzUUAD2ZOj)
+
 * A Modern Method for Guitar: Volumes 1, 2, and 3 - Berklee <br>
   by William Leavitt
+
+* Video Play List - A modern guitar method for guitar <br>
+  [https://www.youtube.com/playlist?list=PLx1YuLLmpyHvTwAGXZm52kdOClq-TRb6-](https://www.youtube.com/playlist?list=PLx1YuLLmpyHvTwAGXZm52kdOClq-TRb6-)
 
 * Solo Guitar Playing - Book 1, 4th Edition <br>
   by Frederick Noad
 
-* Solo Guitar Playing - Book 2 <br>
+* Video Play List - Solo Guitar Playing, Vol 1 - Frederick Noad <br>
+  [https://www.youtube.com/playlist?list=PL5F9C3995AE36CDAE](https://www.youtube.com/playlist?list=PL5F9C3995AE36CDAE)
+
+* Solo Guitar Playing - Book 2, 3th Edition <br>
   by Frederick Noad
 
 * The Complete Idiots Guide to Playing Guitar  <br>
@@ -645,65 +707,74 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
 * Adult Piano Adventures All-in-One Piano Course Book 1 <br>
   by Nancy Faber, Randall Faber
 
-* Video play list - Faber Piano Adventures - Adult Piano Adventures Book 1 <br>
+* Video Play List - Faber Piano Adventures - Adult Piano Adventures Book 1 <br>
   [https://www.youtube.com/playlist?list=PLROQq1cZUMn_XJFiAh1KHMTpwTc1jX_Qz](https://www.youtube.com/playlist?list=PLROQq1cZUMn_XJFiAh1KHMTpwTc1jX_Qz) 
 
 * Adult Piano Adventures All-in-One Piano Course Book 2 <br>
   by Nancy Faber, Randall Faber
 
-* Video play list - Faber Piano Adventures - Adult Piano Adventures Book 2 <br>
+* Video Play List - Faber Piano Adventures - Adult Piano Adventures Book 2 <br>
   [https://www.youtube.com/playlist?list=PLROQq1cZUMn__fEA5c1D-D1uGVEXmKaiv](https://www.youtube.com/playlist?list=PLROQq1cZUMn__fEA5c1D-D1uGVEXmKaiv) 
 
 * Adult Piano Adventures - Classics, Book 1: Symphony Themes, Opera Gems and Classical Favorites <br>
   by Nancy Faber, Randall Faber <br>
 
-* Video play list - Faber Piano Adventures - Adult Piano Adventures Classics Book 1 <br>
+* Video Play List - Faber Piano Adventures - Adult Piano Adventures Classics Book 1 <br>
   [https://www.youtube.com/playlist?list=PLROQq1cZUMn_tJxX2UelnAkgxlQRdfZRs](https://www.youtube.com/playlist?list=PLROQq1cZUMn_tJxX2UelnAkgxlQRdfZRs) 
 
 * Adult Piano Adventures - Classics, Book 2: Symphony Themes, Opera Gems and Classical Favorites <br>
   by Nancy Faber, Randall Faber <br>
 
-* Video play list - Faber Piano Adventures - Adult Piano Adventures Classics Book 2 <br>
+* Video Play List - Faber Piano Adventures - Adult Piano Adventures Classics Book 2 <br>
   [https://www.youtube.com/playlist?list=PLROQq1cZUMn8vTb9RKSo_h1eL81v4J9tu](https://www.youtube.com/playlist?list=PLROQq1cZUMn8vTb9RKSo_h1eL81v4J9tu) 
 
 * Adult Piano Adventures Popular Book 1: Timeless Hits and Popular Favorites <br>
   by Nancy Faber and Randall Faber
 
-* Video play list - Faber Piano Adventures - Adult Piano Adventures Popular Book 1 <br>
+* Video Play List - Faber Piano Adventures - Adult Piano Adventures Popular Book 1 <br>
   [https://www.youtube.com/playlist?list=PLROQq1cZUMn_18r2SJZU8ajbrBJmeHYMW](https://www.youtube.com/playlist?list=PLROQq1cZUMn_18r2SJZU8ajbrBJmeHYMW) 
 
 * Adult Piano Adventures Popular Book 2: Timeless Hits and Popular Favorites <br>
   by Nancy Faber, Randall Faber
 
-* Video play list - Faber Piano Adventures - Adult Piano Adventures Popular Book 2 <br>
+* Video Play List - Faber Piano Adventures - Adult Piano Adventures Popular Book 2 <br>
   [https://www.youtube.com/playlist?list=PLROQq1cZUMn8VCV0z8lzPcDoBvUJB4Xfm](https://www.youtube.com/playlist?list=PLROQq1cZUMn8VCV0z8lzPcDoBvUJB4Xfm) 
 
 * Alfred's Basic Piano Adult All-in-One Course, Book 1 <br>
   by Willard A. Palmer , Morton Manus
 
-* Video play list - Lets Play Piano Methods - Alfred's All-In-One Course Level 1  <br>
+* Video Play List - Lets Play Piano Methods - Alfred's All-In-One Course Level 1  <br>
   [https://www.youtube.com/playlist?list=PL8hZtgRyL9WRWJLlIUPl-ydiDc8CZ_SJK](https://www.youtube.com/playlist?list=PL8hZtgRyL9WRWJLlIUPl-ydiDc8CZ_SJK) 
 
 * Alfred's Basic Piano Adult All-in-One Course, Book 2 <br>
   by Willard A. Palmer, Morton Manus, Amanda Vick Lethco
 
-* Video play list - Lets Play Piano Methods - Alfred's All-In-One Course Level 2 <br>
+* Video Play List - Lets Play Piano Methods - Alfred's All-In-One Course Level 2 <br>
   [https://www.youtube.com/playlist?list=PL8hZtgRyL9WRMcePG1b7usEZOVcy_QvWR](https://www.youtube.com/playlist?list=PL8hZtgRyL9WRMcePG1b7usEZOVcy_QvWR) 
 
 * Alfred's Basic Piano Adult All-in-One Course, Book 3 <br>
   by Willard A. Palmer, Morton Manus, Amanda Vick Lethco
 
-* Video play list - Lets Play Piano Methods - Alfred's All-In-One Course Level 3 <br>
+* Video Play List - Lets Play Piano Methods - Alfred's All-In-One Course Level 3 <br>
   [https://www.youtube.com/playlist?list=PL8hZtgRyL9WQbPTxeasLAuqs0swKni3uZ](https://www.youtube.com/playlist?list=PL8hZtgRyL9WQbPTxeasLAuqs0swKni3uZ) 
 
 * Elementary Method for the Piano, Op. 101 <br>
   by Ferdinand Beyer, Gayle Kowalchyk
 
-* Video play list - UIPianoPed - Ferdinand Beyer, Elementary Instruction Book <br>
+* Video Play List - UIPianoPed - Ferdinand Beyer, Elementary Instruction Book <br>
   [https://www.youtube.com/playlist?list=PL4226BDA9FDA47716](https://www.youtube.com/playlist?list=PL4226BDA9FDA47716) 
 
-* Video play list - Jane - Ferdinand Beyer, Elementary Instruction Book <br>
+* Video Play List - Jane - Ferdinand Beyer, Elementary Instruction Book <br>
   [https://www.youtube.com/playlist?list=PLPllVFTXjCbBMo5Hjm__ajzB2sdeIzNcF](https://www.youtube.com/playlist?list=PLPllVFTXjCbBMo5Hjm__ajzB2sdeIzNcF) 
+
+* The Complete Idiot's Guide to Playing Piano, 3rd Edition <br>
+  by Brad Hill
+
+* The Piano Handbook: A Complete Guide for Mastering Piano <br>
+  by Carl Humphries
+
+* Video Play List - The Piano Handbook - Carl Humphries <br>
+  [https://www.youtube.com/playlist?list=PL8hZtgRyL9WTuZ_eNpJXqxKDyi6_cEtWc](https://www.youtube.com/playlist?list=PL8hZtgRyL9WTuZ_eNpJXqxKDyi6_cEtWc)
 
 * The Complete Book of Scales, Chords, Arpeggios & Cadences <br>
   by Willard A. Palmer, Morton Manus
