@@ -310,16 +310,19 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
   [https://www.youtube.com/playlist?list=PLx1YuLLmpyHvTwAGXZm52kdOClq-TRb6-](https://www.youtube.com/playlist?list=PLx1YuLLmpyHvTwAGXZm52kdOClq-TRb6-)
 
 * Solo Guitar Playing - Book 1, 4th Edition <br>
-  by Frederick Noad
+  by Frederick M. Noad
 
-* Video Play List - Solo Guitar Playing, Vol 1 - Frederick Noad <br>
+* Video Play List - Solo Guitar Playing, Vol 1 - Frederick M. Noad <br>
   [https://www.youtube.com/playlist?list=PL5F9C3995AE36CDAE](https://www.youtube.com/playlist?list=PL5F9C3995AE36CDAE)
 
+* Video (Full Album) - Frederick M. Noad - Solo Guitar Playing vol 1 <br>
+  [https://www.youtube.com/watch?v=mOBbBgWuRJs](https://www.youtube.com/watch?v=mOBbBgWuRJs) 
+
 * Solo Guitar Playing - Book 2, 3th Edition <br>
-  by Frederick Noad
+  by Frederick M. Noad
 
 * The Complete Idiots Guide to Playing Guitar  <br>
-  by Frederick Noad
+  by Frederick M. Noad
 
 * Hal Leonard Classical Guitar Method <br>
   by Paul Henry
