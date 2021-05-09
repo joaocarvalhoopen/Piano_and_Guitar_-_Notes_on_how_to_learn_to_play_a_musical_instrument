@@ -399,6 +399,18 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
 * 100 Most Popular Songs for Fingerpicking Guitar: Solo Guitar Arrangements in Standard Notation and Tab <br>
   by Hal Leonard
 
+* 50 Easy Classical Guitar Pieces <br>
+  by Jerry Willard
+
+* Video - GuitarBasement - 50 EASY Classical Guitar Solos - Lesson by Jerry Willard <br>
+  [https://www.youtube.com/watch?v=q_dLBWixdbw](https://www.youtube.com/watch?v=q_dLBWixdbw)
+
+* Video - Music - 50 Easy Classical Guitar Pieces 1-25 arranged and edited by Jerry Willard <br>
+  [https://www.youtube.com/watch?v=WGHQf2gt8Mc](https://www.youtube.com/watch?v=WGHQf2gt8Mc)
+
+* Video - Music - 50 Easy Classical Guitar Pieces 26-50 arranged and edited by Jerry Willard <br>
+  [https://www.youtube.com/watch?v=FPA9_f_OsbE](https://www.youtube.com/watch?v=FPA9_f_OsbE)
+
 * 100 Graded Classical Guitar Studies: Selected and Graded by Frederick Noad <br>
 by Hal Leonard Corp., Frederick Noad
 
