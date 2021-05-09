@@ -357,11 +357,17 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
 * Video Play List - Brian Margell - Christopher Parkening - Classical Guitar Method vol.1 <br>
   [https://www.youtube.com/playlist?list=PLya38jTwaDy1hbjyLBLwt9WlHWSa6OLjk](https://www.youtube.com/playlist?list=PLya38jTwaDy1hbjyLBLwt9WlHWSa6OLjk) 
 
-* Video Play List - FranklinYipMusic - The Christopher Parkening Guitar Method, Volume 1 <br>
+* Video Play List - FranklinYipMusic - The Christopher Parkening Guitar Method, vol 1 <br>
   [https://www.youtube.com/playlist?list=PLN2VWWlQZtfVUoXwXIf5tZW0CJgvEJmrf](https://www.youtube.com/playlist?list=PLN2VWWlQZtfVUoXwXIf5tZW0CJgvEJmrf)
 
 * The Christopher Parkening Guitar Method - Volume 2: Guitar Technique <br>
   by Christopher Parkening, Jack Marshall, David Brandon
+
+* Video Play List - Several - Christopher Parkening - Classical Guitar Method vol.2 <br>
+  [https://www.youtube.com/playlist?list=PL3W_yhCYJ7-50gE4--AKtm6sqJE8PIwjJ](https://www.youtube.com/playlist?list=PL3W_yhCYJ7-50gE4--AKtm6sqJE8PIwjJ)
+
+* Flamenco Guitar: Basic Techniques <br>
+  by Juan Serrano
 
 * Guitar Fretboard Workbook 2nd Edition <br>
   by Barrett Tagliarino
@@ -369,8 +375,17 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
 * Pumping Nylon: The Classical Guitarist's Technique Handbook <br>
   by Scott Tennant
 
+* Video Play List - Pumping NYLON classical exercised Scott Tennant <br>
+  [https://www.youtube.com/playlist?list=PL7PVo0LEsqfS-I5eOHa_216eVkICES8Vp](https://www.youtube.com/playlist?list=PL7PVo0LEsqfS-I5eOHa_216eVkICES8Vp)
+
 * Guitar Aerobics: A 52-Week, One-lick-per-day Workout Program for Developing, Improving and Maintaining Guitar Technique <br>
   by Troy Nelson
+
+* Video Play List - Adrian Colin - Guitar Aerobics by Troy Nelson <br>
+  [https://www.youtube.com/playlist?list=PL-eSLbraVsjo4uu58mQuyPD2Dn0O4aRVW](https://www.youtube.com/playlist?list=PL-eSLbraVsjo4uu58mQuyPD2Dn0O4aRVW)
+
+* Video Play List - Adam - Guitar Aerobics by Troy Nelson <br>
+  [https://www.youtube.com/playlist?list=PLpxkNwUwbnTd0zbHIF6PHklTs5ympQWmZ](https://www.youtube.com/playlist?list=PLpxkNwUwbnTd0zbHIF6PHklTs5ympQWmZ)
 
 * The Guitar Handbook <br>
   by Ralph Denyer
