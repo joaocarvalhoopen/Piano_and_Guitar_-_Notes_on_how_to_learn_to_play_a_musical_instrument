@@ -378,6 +378,9 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
 * Video Play List - Pumping NYLON classical exercised Scott Tennant <br>
   [https://www.youtube.com/playlist?list=PL7PVo0LEsqfS-I5eOHa_216eVkICES8Vp](https://www.youtube.com/playlist?list=PL7PVo0LEsqfS-I5eOHa_216eVkICES8Vp)
 
+* The Classical Guitar Companion <br>
+  by Christopher Berg
+
 * Guitar Aerobics: A 52-Week, One-lick-per-day Workout Program for Developing, Improving and Maintaining Guitar Technique <br>
   by Troy Nelson
 
@@ -392,6 +395,18 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
 
 * The Advancing Guitarist <br>
   by Mick Goodrick
+
+* 100 Most Popular Songs for Fingerpicking Guitar: Solo Guitar Arrangements in Standard Notation and Tab <br>
+  by Hal Leonard
+
+* 100 Graded Classical Guitar Studies: Selected and Graded by Frederick Noad <br>
+by Hal Leonard Corp., Frederick Noad
+
+* Video Play List - Ivo Classical Guitar - 100 Graded classical guitar studies - Frederick Noad <br>
+  [https://www.youtube.com/playlist?list=PLfsVk10loIkyH4Oh_Lsm246DuiRRplpyi](https://www.youtube.com/playlist?list=PLfsVk10loIkyH4Oh_Lsm246DuiRRplpyi)
+
+* The Classical Guitar Compendium: Classical Masterpieces Arranged For Solo Guitar <br>
+  by Bridget Mermikides
 
 
 ## Youtube guitar courses or lessons
