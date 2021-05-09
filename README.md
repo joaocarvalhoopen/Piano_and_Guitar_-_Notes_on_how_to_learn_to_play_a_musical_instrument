@@ -324,6 +324,27 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
 * The Complete Idiots Guide to Playing Guitar  <br>
   by Frederick M. Noad
 
+* Julio S. Sagreras - Guitar Lessons: Books 1, 2 and 3 <br>
+  by Julio Sagreras
+
+* Video Play List - Jesus Hilario Hernandez - The First Lessons For Guitar, Julio S. Sagreras <br>
+  [https://www.youtube.com/playlist?list=PL-ZkhVVp9xcO6qIgWZTHuLRuC_3oPKYN9](https://www.youtube.com/playlist?list=PL-ZkhVVp9xcO6qIgWZTHuLRuC_3oPKYN9)
+
+* Video Play List - Norbert Neunzling - Julio Sagreras - Primeras Lecciones de Guitarra (Book 1) <br>
+  [https://www.youtube.com/playlist?list=PLBBEBA9C754C7320C](https://www.youtube.com/playlist?list=PLBBEBA9C754C7320C)
+
+* Video - Enrique Cabrera - Las Primeras Lecciones de Guitarra - Lecciones 1 - 36 - Julio S. Sagreras <br>
+  [https://www.youtube.com/watch?v=QPrv3sQuzTQ](https://www.youtube.com/watch?v=QPrv3sQuzTQ)
+
+* Video - Enrique Cabrera - Las Primeras Lecciones de Guitarra - Lecciones 37 - 52 - Julio S. Sagreras <br>
+  [https://www.youtube.com/watch?v=FUu7AMBW8Sk](https://www.youtube.com/watch?v=FUu7AMBW8Sk)
+
+* Video - Enrique Cabrera - Las Primeras Lecciones de Guitarra - Lecciones 53 - 86 - Julio S. Sagreras <br>
+  [https://www.youtube.com/watch?v=jpqNi0RnvYI](https://www.youtube.com/watch?v=jpqNi0RnvYI)
+
+* Julio S. Sagreras - Guitar Lessons, Books 4, 5 and 6 - Advanced Technique <br>
+  by Julio S. Sagreras
+
 * Hal Leonard Classical Guitar Method <br>
   by Paul Henry
 
@@ -332,6 +353,12 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
 
 * The Christopher Parkening Guitar Method - Volume 1: Guitar Technique <br>
   by Christopher Parkening, Jack Marshall, David Brandon
+
+* Video Play List - Brian Margell - Christopher Parkening - Classical Guitar Method vol.1 <br>
+  [https://www.youtube.com/playlist?list=PLya38jTwaDy1hbjyLBLwt9WlHWSa6OLjk](https://www.youtube.com/playlist?list=PLya38jTwaDy1hbjyLBLwt9WlHWSa6OLjk) 
+
+* Video Play List - FranklinYipMusic - The Christopher Parkening Guitar Method, Volume 1 <br>
+  [https://www.youtube.com/playlist?list=PLN2VWWlQZtfVUoXwXIf5tZW0CJgvEJmrf](https://www.youtube.com/playlist?list=PLN2VWWlQZtfVUoXwXIf5tZW0CJgvEJmrf)
 
 * The Christopher Parkening Guitar Method - Volume 2: Guitar Technique <br>
   by Christopher Parkening, Jack Marshall, David Brandon
