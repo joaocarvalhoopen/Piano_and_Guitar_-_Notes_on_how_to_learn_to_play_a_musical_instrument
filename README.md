@@ -591,6 +591,9 @@ And see here a really cool technique and to see how useful it is even if you hav
   The SECRET to become FAST & STEADY on the PIANO <br>
   [https://www.youtube.com/watch?v=B0GK-TMLYpg](https://www.youtube.com/watch?v=B0GK-TMLYpg) 
 
+* In Portuguese - Felipe Scagliusi - O que treinar sem ter um piano - What to practice if you don't have a piano <br>
+  [https://www.youtube.com/watch?v=mVMDuS9EJ-I](https://www.youtube.com/watch?v=mVMDuS9EJ-I)
+
 To see that even good pianists can start this way see: <br>
 
 * Playing a Paper Piano <br>
@@ -937,6 +940,37 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
 * Coldplay Sheet Music Collection <br>
   by Coldplay
 
+* In Portuguese - Felipe Scagliusi - 9 exercícios de Chopin para iniciantes de piano - 9 exercises from Chopin to the starting piano student <br>
+  [https://www.youtube.com/watch?v=NIs4bodYEu0](https://www.youtube.com/watch?v=NIs4bodYEu0)
+
+* Sheet music for the 9 exercises from Chopin <br>
+  [https://www.aprendendopiano.com.br/wp-content/uploads/2020/03/9-Exercicios-Chopin.pdf](https://www.aprendendopiano.com.br/wp-content/uploads/2020/03/9-Exercicios-Chopin.pdf)
+
+* In Portuguese - Felipe Scagliusi - Para intermediários de piano: Tchaikovsky - Álbum para a juventude - Concerto for the youth - Prey of the morning <br>
+  Note: The author adverts that this video sound quality isn't in the best, unlike all his other videos <br>
+  [https://www.youtube.com/watch?v=HvhuwOLo-ag](https://www.youtube.com/watch?v=HvhuwOLo-ag)
+
+* Sheet music - Tchaikovsky - Prey of the morning <br>
+  [https://www.aprendendopiano.com.br/wp-content/uploads/2017/11/Oracao-da-Manha-Tchaikovsky_Album_para_a_juventude.pdf](https://www.aprendendopiano.com.br/wp-content/uploads/2017/11/Oracao-da-Manha-Tchaikovsky_Album_para_a_juventude.pdf) 
+
+* In Portuguese - Felipe Scagliusi - Para intermediários de piano: Schumann - Álbum para a juventude (Op. 68 Kleine Studie Schumann) - For intermidiate students - Concert to the youth Op. 68 <br>
+  [https://www.youtube.com/watch?v=xAmFSf8ddNQ](https://www.youtube.com/watch?v=xAmFSf8ddNQ)
+
+* Sheet music - Schumann - Concert to the youth Op. 68 <br>
+  [https://imslp.org/wiki/Album_f%C3%BCr_die_Jugend,_Op.68_%28Schumann,_Robert%29](https://imslp.org/wiki/Album_f%C3%BCr_die_Jugend,_Op.68_%28Schumann,_Robert%29)
+
+* In Portuguese - Felipe Scagliusi - 3 livros de partitura para intermediários no piano - 3 sheet music "books" for the intermedium piano student <br>
+  [https://www.youtube.com/watch?v=FlCPx3NWHO4](https://www.youtube.com/watch?v=FlCPx3NWHO4)
+
+* Regarding the above Felipe Scagliusi video of sheet music fo the intemediate student: <br>
+  Bach - Preludes <br>
+  [https://www.aprendendopiano.com.br/wp-content/uploads/2021/04/IMSLP492402-PMLP797208-bachzwolfsechskleinepraludienscore.pdf](https://www.aprendendopiano.com.br/wp-content/uploads/2021/04/IMSLP492402-PMLP797208-bachzwolfsechskleinepraludienscore.pdf)
+
+* Regarding the above Felipe Scagliusi video of sheet music fo the intemediate student: <br>
+  Il mio primo Beethoven <br>
+  My First Bethoven <br>
+  [https://www.aprendendopiano.com.br/wp-content/uploads/2021/04/IMSLP558952-PMLP900676-Il_mio_primo_Beethoven_Spartiti_per_pianoforte.pdf](https://www.aprendendopiano.com.br/wp-content/uploads/2021/04/IMSLP558952-PMLP900676-Il_mio_primo_Beethoven_Spartiti_per_pianoforte.pdf)
+
 
 ## Discover good music for piano of all periods
 
@@ -1003,6 +1037,18 @@ See the video description to know the music / composition that is being played a
 * NewJazz - The Bad Tapping Habit Pad <br>
   The SECRET to become FAST & STEADY on the PIANO <br>
   [https://www.youtube.com/watch?v=B0GK-TMLYpg](https://www.youtube.com/watch?v=B0GK-TMLYpg) 
+
+* In Portuguese - Felipe Scagliusi - Como os grandes intérpretes auxiliam no aprendizado de piano - How the study of great piano players help us to learn the piano <br>
+  [https://www.youtube.com/watch?v=OcwrADtAcVo](https://www.youtube.com/watch?v=OcwrADtAcVo)
+
+* Regarding the above Felipe Scagliusi video on the great interpretations: Vladimir Horowitz - Chopin: Barcarolle Op. 60 <br>
+  [https://www.youtube.com/watch?v=8JKv2FyvJ8I](https://www.youtube.com/watch?v=8JKv2FyvJ8I)
+
+* Regarding the above Felipe Scagliusi video on the great interpretations: Arthur Rubinstein - Chopin Barcarolle, Op 60 <br>
+  [https://www.youtube.com/watch?v=q9umBE2Gn7Q](https://www.youtube.com/watch?v=q9umBE2Gn7Q)
+
+* Regarding the above Felipe Scagliusi video on the great interpretations: Richter - Chopin Barcarolle, Op 60 <br>
+  [https://www.youtube.com/watch?v=oOZl9HXT1a0](https://www.youtube.com/watch?v=oOZl9HXT1a0)
 
 
 # Finding a good and cheap Audio Interface that works on Linux
