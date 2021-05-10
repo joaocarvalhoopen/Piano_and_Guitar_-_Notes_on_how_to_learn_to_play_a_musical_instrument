@@ -36,6 +36,7 @@ My notes for the intrepid adventurer!
     - [Books for sight reading](#books-for-sight-reading-1)
     - [Site's for sight reading](#sites-for-sight-reading-1)
   - [Good Books for the piano](#good-books-for-the-piano)
+  - [Discover good music for piano of all periods](#discover-good-music-for-piano-of-all-periods)
   - [Good youtube channels and sites](#good-youtube-channels-and-sites)
   - [Good youtube videos](#good-youtube-videos)
 - [Finding a good and cheap Audio Interface that works on Linux](#finding-a-good-and-cheap-audio-interface-that-works-on-linux)
@@ -937,6 +938,39 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
   by Coldplay
 
 
+## Discover good music for piano of all periods
+
+See the video description to know the music / composition that is being played and then go the next step and find on youtube the best interpretations or recordings of each music, compositio or concerto. <br>
+
+* Piano Solo: Chopin, Debussy, Liszt, Mozart, Beethoven... <br>
+  [https://www.youtube.com/watch?v=PJL_mVgT0Ao](https://www.youtube.com/watch?v=PJL_mVgT0Ao)
+
+* The Best of Classical Piano: Chopin, Debussy, Liszt, Mozart, Beethoven... <br>
+  [https://www.youtube.com/watch?v=dEq3VOBVaak]https://www.youtube.com/watch?v=dEq3VOBVaak()
+
+* The Best of Piano - 50 Greatest Pieces: Chopin, Debussy, Beethoven, Mozart... <br>
+  [https://www.youtube.com/watch?v=MuxB2zACza0](https://www.youtube.com/watch?v=MuxB2zACza0)
+
+* Top 50 Best Classical Piano Music <br>
+  [https://www.youtube.com/watch?v=ZAr-PKUyo7Q](https://www.youtube.com/watch?v=ZAr-PKUyo7Q)
+
+* In Portuguese - Felipe Scagliusi - 10 músicas que TODO estudante de piano DEVE conhecer... <br>
+  10 pieces that you should know <br>
+  [https://www.youtube.com/watch?v=fD8r1CMwSN8](https://www.youtube.com/watch?v=fD8r1CMwSN8)
+
+* The Best Of YIRUMA - Yiruma's Greatest Hits - Best Piano <br>
+  [https://www.youtube.com/watch?v=8Z5EjAmZS1o](https://www.youtube.com/watch?v=8Z5EjAmZS1o)
+
+* Classical Music - Piano Concertos <br>
+  [https://www.youtube.com/watch?v=sEdGz6zNV3E](https://www.youtube.com/watch?v=sEdGz6zNV3E)
+
+* Top 10 Piano Concertos <br>
+  [https://www.youtube.com/playlist?list=PLN1stNazrrSeahrCE6ei4GFstmRdcCu7Y](https://www.youtube.com/playlist?list=PLN1stNazrrSeahrCE6ei4GFstmRdcCu7Y)
+
+* 5 Great Piano Concertos - Beethoven, Rachmaninoff, Tchaikovsky, Liszt, Saint-Saens <br>
+  [https://www.youtube.com/watch?v=8ojhTmnwz6I](https://www.youtube.com/watch?v=8ojhTmnwz6I)
+
+
 ## Good youtube channels and sites
 
 * Free Online Piano Lessons <br>
@@ -963,15 +997,12 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
 * Site - pianu <br>
   [https://pianu.com/song-library](https://pianu.com/song-library) 
 
+
 ## Good youtube videos
 
 * NewJazz - The Bad Tapping Habit Pad <br>
   The SECRET to become FAST & STEADY on the PIANO <br>
   [https://www.youtube.com/watch?v=B0GK-TMLYpg](https://www.youtube.com/watch?v=B0GK-TMLYpg) 
-
-* In Portuguese - Felipe Scagliusi - 10 músicas que TODO estudante de piano DEVE conhecer... <br>
-  10 pieces that you should know <br>
-  [https://www.youtube.com/watch?v=fD8r1CMwSN8](https://www.youtube.com/watch?v=fD8r1CMwSN8)
 
 
 # Finding a good and cheap Audio Interface that works on Linux
