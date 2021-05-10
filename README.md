@@ -294,6 +294,9 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
 
 ## Good Books for guitar
 
+* Larry McDonald - To define the student's level of development for the left hand, right-hand, rhythm, and musicianship. <br>
+  [https://www.classicalguitardelcamp.com/viewtopic.php?p=1374654#p1374654](https://www.classicalguitardelcamp.com/viewtopic.php?p=1374654#p1374654)
+
 * Hal Leonard Guitar Method - Complete Edition: Books 1, 2 and 3 2th Edition <br>
   by Will Schmid, Greg Koch
 
