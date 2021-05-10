@@ -478,8 +478,16 @@ by Hal Leonard Corp., Frederick Noad
 * How to visualize the freeboard - The Most Powerful System I Know - TOM QUAYLE <br>
   [https://www.youtube.com/watch?v=dhwix_UAkm0](https://www.youtube.com/watch?v=dhwix_UAkm0) 
 
- 
+* Classical Composer Reacts to Icarus' Dream Suite, Op. 4 (Yngwie Malmsteen) - The Daily Doug Ep. 122 <br>
+  See also the next entry. <br>
+  [https://www.youtube.com/watch?v=xVTNnFAHvHw](https://www.youtube.com/watch?v=xVTNnFAHvHw)
+
+* Classical Composer Reacts to the "Real" Icarus' Dream Suite Op. 4 - Malmsteen - The Daily Doug <br>
+  [https://www.youtube.com/watch?v=byGN7fGx75U](https://www.youtube.com/watch?v=byGN7fGx75U)
+
+
 3 Freely available guitar ebook resources from there respective sites <br>
+
 
 * Classical Guitar Method Book Volume 1 by Bradford Werner <br>
   [https://www.thisisclassicalguitar.com/free-classical-guitar-method-book-pdf/](https://www.thisisclassicalguitar.com/free-classical-guitar-method-book-pdf/) 
