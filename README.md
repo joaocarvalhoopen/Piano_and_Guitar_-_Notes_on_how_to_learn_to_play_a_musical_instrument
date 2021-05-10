@@ -1136,6 +1136,12 @@ For the Raspberry Pi, see: <br>
 * zynthian <br>
   [https://zynthian.org/#concept](https://zynthian.org/#concept) 
 
+See also my notes on how to learn linux: <br>
+
+* **How to learn modern Linux** <br>
+  A simple but long path to the intrepid adventurer. <br>
+  [https://github.com/joaocarvalhoopen/How_to_learn_modern_Linux](https://github.com/joaocarvalhoopen/How_to_learn_modern_Linux)
+
 
 # Disclaimer
 
