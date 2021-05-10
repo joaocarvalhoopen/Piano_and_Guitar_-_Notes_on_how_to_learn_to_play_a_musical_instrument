@@ -20,6 +20,7 @@ My notes for the intrepid adventurer!
     - [Books for sight reading](#books-for-sight-reading)
     - [Site's for sight reading](#sites-for-sight-reading)
   - [Good Books for guitar](#good-books-for-guitar)
+  - [Youtube excellent guitar performances](#youtube-excellent-guitar-performances)
   - [Youtube guitar courses or lessons](#youtube-guitar-courses-or-lessons)
   - [Youtube to learn to play songs](#youtube-to-learn-to-play-songs)
   - [Especially good lessons](#especially-good-lessons)
@@ -422,6 +423,12 @@ by Hal Leonard Corp., Frederick Noad
 
 * The Classical Guitar Compendium: Classical Masterpieces Arranged For Solo Guitar <br>
   by Bridget Mermikides
+
+
+## Youtube excellent guitar performances
+
+* Siccas Guitars - The world's finest guitars - Classical guitar videos weekly <br>
+  [https://www.youtube.com/channel/UCR39sLAZ5wS_vrMo4tRylHw](https://www.youtube.com/channel/UCR39sLAZ5wS_vrMo4tRylHw)
 
 
 ## Youtube guitar courses or lessons
