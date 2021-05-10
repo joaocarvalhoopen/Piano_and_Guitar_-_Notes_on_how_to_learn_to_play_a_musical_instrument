@@ -401,6 +401,9 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
 * The Advancing Guitarist <br>
   by Mick Goodrick
 
+* **To obtain free sheet music and ear it** - **IMSLP** - Petrucci Music Library - Sharing the world's **public domain music** <br>
+  [https://imslp.org/](https://imslp.org/)
+
 * 100 Most Popular Songs for Fingerpicking Guitar: Solo Guitar Arrangements in Standard Notation and Tab <br>
   by Hal Leonard
 
@@ -940,26 +943,57 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
 * Coldplay Sheet Music Collection <br>
   by Coldplay
 
-* In Portuguese - Felipe Scagliusi - 9 exercícios de Chopin para iniciantes de piano - 9 exercises from Chopin to the starting piano student <br>
+* **To obtain free sheet music and ear it** - **IMSLP** - Petrucci Music Library - Sharing the world's **public domain music** <br>
+  [https://imslp.org/](https://imslp.org/) 
+
+* Lang Lang Piano Book <br>
+  Featuring all 29 pieces from the album Lang Lang Piano Book, this is a collection of the most significant pieces from Lang Lang's personal musical journey. <br>
+  by Lang Lang
+
+* Video - Lang Lang discusses 'Piano Book' <br>
+  [https://www.youtube.com/watch?v=38vA2gIWVps](https://www.youtube.com/watch?v=38vA2gIWVps)
+
+* **Sheet music for the beginner piano student.** <br>
+  Piano Sonata No.16 in C major, K.545 "Sonata facile" (Mozart, Wolfgang Amadeus) <br>
+  [https://imslp.org/wiki/Piano_Sonata_No.16_in_C_major%2C_K.545_(Mozart%2C_Wolfgang_Amadeus)](https://imslp.org/wiki/Piano_Sonata_No.16_in_C_major%2C_K.545_(Mozart%2C_Wolfgang_Amadeus))
+
+* Lang Lang - Mozart: Piano Sonata No. 16 in C Major, "Sonata facile" <br>
+  [https://www.youtube.com/watch?v=7rxdhNTXPx8](https://www.youtube.com/watch?v=7rxdhNTXPx8)
+
+* **Sheet music for the beginner piano student.** <br>
+  Minuet in G major, BWV Anh.114 (Pezold, Christian), previouslly attributed to Bach <br>
+  [https://imslp.org/wiki/Minuet_in_G_major%2C_BWV_Anh.114_(Pezold%2C_Christian)](https://imslp.org/wiki/Minuet_in_G_major%2C_BWV_Anh.114_(Pezold%2C_Christian))
+
+* Video - Lang Lang on Petzold: Minuet No.2 in G Minor <br>
+  [https://www.youtube.com/watch?v=hw19cy5bV6E](https://www.youtube.com/watch?v=hw19cy5bV6E)
+
+* **Sheet music for the beginner piano student.** <br>
+  6 Piano Sonatinas, Op.36 (Clementi, Muzio) <br>
+  [https://imslp.org/wiki/6_Piano_Sonatinas%2C_Op.36_(Clementi%2C_Muzio)](https://imslp.org/wiki/6_Piano_Sonatinas%2C_Op.36_(Clementi%2C_Muzio))
+
+* Video - Muzio Clementi The Six Sonatinas Op 36 for Piano Complete <br>
+  [https://www.youtube.com/watch?v=42qx4zVyjmw](https://www.youtube.com/watch?v=42qx4zVyjmw)
+
+* In Portuguese - Video - Felipe Scagliusi - 9 exercícios de Chopin para iniciantes de piano - 9 exercises from Chopin to the starting piano student <br>
   [https://www.youtube.com/watch?v=NIs4bodYEu0](https://www.youtube.com/watch?v=NIs4bodYEu0)
 
-* Sheet music for the 9 exercises from Chopin <br>
+* Sheet music for the **9 exercises from Chopin** - Felipe Scagliusi. <br>
   [https://www.aprendendopiano.com.br/wp-content/uploads/2020/03/9-Exercicios-Chopin.pdf](https://www.aprendendopiano.com.br/wp-content/uploads/2020/03/9-Exercicios-Chopin.pdf)
 
-* In Portuguese - Felipe Scagliusi - Para intermediários de piano: Tchaikovsky - Álbum para a juventude - Concerto for the youth - Prey of the morning <br>
+* In Portuguese - Video - Felipe Scagliusi - Para intermediários de piano: Tchaikovsky - Álbum para a juventude - **For the intermedite piano student** - Concerto for the youth - Morning prayer <br>
   Note: The author adverts that this video sound quality isn't in the best, unlike all his other videos <br>
   [https://www.youtube.com/watch?v=HvhuwOLo-ag](https://www.youtube.com/watch?v=HvhuwOLo-ag)
 
 * Sheet music - Tchaikovsky - Prey of the morning <br>
   [https://www.aprendendopiano.com.br/wp-content/uploads/2017/11/Oracao-da-Manha-Tchaikovsky_Album_para_a_juventude.pdf](https://www.aprendendopiano.com.br/wp-content/uploads/2017/11/Oracao-da-Manha-Tchaikovsky_Album_para_a_juventude.pdf) 
 
-* In Portuguese - Felipe Scagliusi - Para intermediários de piano: Schumann - Álbum para a juventude (Op. 68 Kleine Studie Schumann) - For intermidiate students - Concert to the youth Op. 68 <br>
+* In Portuguese - Video - Felipe Scagliusi - Para intermediários de piano: Schumann - Álbum para a juventude (Op. 68 Kleine Studie Schumann) - **For the intermedite piano student** - Concert to the youth Op. 68 <br>
   [https://www.youtube.com/watch?v=xAmFSf8ddNQ](https://www.youtube.com/watch?v=xAmFSf8ddNQ)
 
 * Sheet music - Schumann - Concert to the youth Op. 68 <br>
   [https://imslp.org/wiki/Album_f%C3%BCr_die_Jugend,_Op.68_%28Schumann,_Robert%29](https://imslp.org/wiki/Album_f%C3%BCr_die_Jugend,_Op.68_%28Schumann,_Robert%29)
 
-* In Portuguese - Felipe Scagliusi - 3 livros de partitura para intermediários no piano - 3 sheet music "books" for the intermedium piano student <br>
+* In Portuguese - Video - Felipe Scagliusi - 3 livros de partitura para intermediários no piano - 3 sheet music "books" **For the intermedite piano student** <br>
   [https://www.youtube.com/watch?v=FlCPx3NWHO4](https://www.youtube.com/watch?v=FlCPx3NWHO4)
 
 * Regarding the above Felipe Scagliusi video of sheet music fo the intemediate student: <br>
