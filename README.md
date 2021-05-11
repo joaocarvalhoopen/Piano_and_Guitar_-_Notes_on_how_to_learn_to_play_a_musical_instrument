@@ -25,6 +25,7 @@ My notes for the intrepid adventurer!
   - [Youtube to learn to play songs](#youtube-to-learn-to-play-songs)
   - [Especially good lessons](#especially-good-lessons)
   - [Nice Youtube guitar channels in Portuguese and Spanish](#nice-youtube-guitar-channels-in-portuguese-and-spanish)
+  - [Guitar forums](#guitar-forums)
 - [Piano](#piano)
   - [Adult piano learning](#adult-piano-learning)
   - [How to start learning the piano even if you don’t have a piano, the paper piano](#how-to-start-learning-the-piano-even-if-you-dont-have-a-piano-the-paper-piano)
@@ -39,6 +40,7 @@ My notes for the intrepid adventurer!
   - [Discover good music for piano of all periods](#discover-good-music-for-piano-of-all-periods)
   - [Good youtube channels and sites](#good-youtube-channels-and-sites)
   - [Good youtube videos](#good-youtube-videos)
+  - [Piano forums](#piano-forums)
 - [Finding a good and cheap Audio Interface that works on Linux](#finding-a-good-and-cheap-audio-interface-that-works-on-linux)
 - [Finding a good and cheap microphone for vocals and classical or acustic guitar](#finding-a-good-and-cheap-microphone-for-vocals-and-classical-or-acustic-guitar)
 - [Configuring all things to work on Linux (Ubuntu / Debian) with open source software](#configuring-all-things-to-work-on-linux-ubuntu--debian-with-open-source-software)
@@ -531,11 +533,19 @@ by Hal Leonard Corp., Frederick Noad
   [https://www.youtube.com/channel/UC6AkZwMrK5BuhfgH1FyuDyA](https://www.youtube.com/channel/UC6AkZwMrK5BuhfgH1FyuDyA) 
 
 
+## Guitar forums
+
+* Forum - Classical guitar Delcamp forum <br>
+  [https://www.classicalguitardelcamp.com/](https://www.classicalguitardelcamp.com/)
+
+
+
 <br>
 
 ---
 
 <br>
+
 
 
 # Piano
@@ -1075,12 +1085,6 @@ See the video description to know the music / composition that is being played a
 * Lets Play Piano Methods - Plays almost all book methods - Very good <br>
   [https://www.youtube.com/channel/UCIeSnI-BmRMkxURGZ7nHtzQ](https://www.youtube.com/channel/UCIeSnI-BmRMkxURGZ7nHtzQ) 
 
-* Site - Piano World <br>
-  [https://pianoworld.com/](https://pianoworld.com/)
-
-* Forum - Piano World forum <br>
-  [http://forum.pianoworld.com/](http://forum.pianoworld.com/)
-
 * Site - kunstderfuge - The largest resouce of classical music in .mid files <br>
   [http://www.kunstderfuge.com/](http://www.kunstderfuge.com/) 
 
@@ -1105,6 +1109,15 @@ See the video description to know the music / composition that is being played a
 
 * Regarding the above Felipe Scagliusi video on the great interpretations: Richter - Chopin Barcarolle, Op 60 <br>
   [https://www.youtube.com/watch?v=oOZl9HXT1a0](https://www.youtube.com/watch?v=oOZl9HXT1a0)
+
+
+## Piano forums
+
+* Site - Piano World <br>
+  [https://pianoworld.com/](https://pianoworld.com/)
+
+* Forum - Piano World forum <br>
+  [http://forum.pianoworld.com/](http://forum.pianoworld.com/)
 
 
 # Finding a good and cheap Audio Interface that works on Linux
