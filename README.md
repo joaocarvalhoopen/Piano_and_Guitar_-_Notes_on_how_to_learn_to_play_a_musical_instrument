@@ -1013,6 +1013,14 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
   My First Bethoven <br>
   [https://www.aprendendopiano.com.br/wp-content/uploads/2021/04/IMSLP558952-PMLP900676-Il_mio_primo_Beethoven_Spartiti_per_pianoforte.pdf](https://www.aprendendopiano.com.br/wp-content/uploads/2021/04/IMSLP558952-PMLP900676-Il_mio_primo_Beethoven_Spartiti_per_pianoforte.pdf)
 
+* In Portuguese - Video - Felipe Scagliusi - Músicas clássicas pra afundar na depressão - Musics to get into depression. <br>
+  See video description for memorable and complete performances. <br>
+  [https://www.youtube.com/watch?v=R4AKMBN9AzI](https://www.youtube.com/watch?v=R4AKMBN9AzI) 
+
+* In Portuguese - Video - Felipe Scagliusi - Músicas clássicas pra SAIR da depressão - Musics to get out of depression. <br>
+  See video description for memorable and complete performances. <br>
+  [https://www.youtube.com/watch?v=_Lsykl-5Qow](https://www.youtube.com/watch?v=_Lsykl-5Qow)
+
 
 ## Discover good music for piano of all periods
 
