@@ -536,6 +536,7 @@ by Hal Leonard Corp., Frederick Noad
 ## Guitar forums
 
 * Forum - Classical guitar Delcamp forum <br>
+  They have a free multi level course on classical guitar with free materials, free exams and exams reviews from the members. <br>
   [https://www.classicalguitardelcamp.com/](https://www.classicalguitardelcamp.com/)
 
 
@@ -1180,7 +1181,7 @@ See also my notes on how to learn linux: <br>
 
 # Disclaimer
 
-I talk about diferente products, because after a long and dificult search for good solutions that are low cost but have quality, those ones, where the ones I choose for me, I payed them with my money and they are not a payed advertise. The fact that for me they all have to work on Linux is another parameter that I have always in my mind when choosing a product. Normally, the manufactor, doesn't tell you, that it works in Linux or that it is USB Class Compliant, a sign that it will work, so you have to dig deeper into foruns, reviews and the internet in general. That was what I did heavilly. 
+I talk about diferente products, because after a long and dificult search for good solutions that are low cost but have quality, those ones, where the ones I choose for me, I payed them with my money and they are not a payed advertise. The fact that for me they all have to work on Linux is another parameter that I have always in my mind when choosing a product. Normally, the manufactor, doesn't tell you, that it works in Linux or that it is USB Class Compliant, a sign that it will work, so you have to dig deeper into forums, reviews and the internet in general. That was what I did heavilly. 
 
 
 # License
