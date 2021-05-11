@@ -1075,6 +1075,12 @@ See the video description to know the music / composition that is being played a
 * Lets Play Piano Methods - Plays almost all book methods - Very good <br>
   [https://www.youtube.com/channel/UCIeSnI-BmRMkxURGZ7nHtzQ](https://www.youtube.com/channel/UCIeSnI-BmRMkxURGZ7nHtzQ) 
 
+* Site - Piano World <br>
+  [https://pianoworld.com/](https://pianoworld.com/)
+
+* Forum - Piano World forum <br>
+  [http://forum.pianoworld.com/](http://forum.pianoworld.com/)
+
 * Site - kunstderfuge - The largest resouce of classical music in .mid files <br>
   [http://www.kunstderfuge.com/](http://www.kunstderfuge.com/) 
 
