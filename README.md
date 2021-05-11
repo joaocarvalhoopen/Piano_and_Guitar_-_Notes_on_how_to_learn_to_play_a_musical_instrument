@@ -292,6 +292,11 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
 
 ### Site's for sight reading
 
+* **Best video to learn to play a music from sheet music** <br>
+  Advise: **See all the videos from this lady**, they are really good. <br>
+  Le Cheile Music - Beginner Repertoire Tutorial: Allegro No 3 by Alexander Reinagle <br>
+  [https://www.youtube.com/watch?v=CN5loa4FOgM&list=PLxWg_0QwEt83v1S_tMChdNJx-wWqcDRQV&index=2](https://www.youtube.com/watch?v=CN5loa4FOgM&list=PLxWg_0QwEt83v1S_tMChdNJx-wWqcDRQV&index=2)
+
 * musictheory - For free web apps that train you to identify notes, intervals and chord in the staff.  <br>
   [https://www.musictheory.net/exercises](https://www.musictheory.net/exercises) 
 
@@ -301,7 +306,7 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
 * Larry McDonald - To define the student's level of development for the left hand, right-hand, rhythm, and musicianship. <br>
   [https://www.classicalguitardelcamp.com/viewtopic.php?p=1374654#p1374654](https://www.classicalguitardelcamp.com/viewtopic.php?p=1374654#p1374654)
 
-* Hal Leonard Guitar Method - Complete Edition: Books 1, 2 and 3 2th Edition <br>
+* Hal Leonard Guitar Method - Complete Edition: Books 1, 2 and 3, 2th Edition <br>
   by Will Schmid, Greg Koch
 
 * Video Play List - Hal Leonard Guitar Method Book 1 <br>
@@ -805,6 +810,11 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
 
 
 ### Site's for sight reading
+
+* **Best video to learn to play a music from sheet music** <br>
+  Advise: **See all the videos from this lady**, they are really good. <br>
+  Le Cheile Music - Beginner Repertoire Tutorial: Allegro No 3 by Alexander Reinagle <br>
+  [https://www.youtube.com/watch?v=CN5loa4FOgM&list=PLxWg_0QwEt83v1S_tMChdNJx-wWqcDRQV&index=2](https://www.youtube.com/watch?v=CN5loa4FOgM&list=PLxWg_0QwEt83v1S_tMChdNJx-wWqcDRQV&index=2)
 
 * musictheory -  For free webapps that train you to identify notes in the staff, intervals and chord. <br>
   [https://www.musictheory.net/exercises](https://www.musictheory.net/exercises) 
