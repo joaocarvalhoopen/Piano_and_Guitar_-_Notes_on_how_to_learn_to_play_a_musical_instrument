@@ -595,6 +595,11 @@ And now for advice from the great pianist Lang Lang, see: <br>
 * Lang Lang’s 8 golden rules for learning to play the piano <br>
   [https://www.youtube.com/watch?v=QFA_R32cVdM](https://www.youtube.com/watch?v=QFA_R32cVdM) 
 
+An hilarious but very real diagnostic of the problems that adults have while trying to learn the piano. <br>
+
+* In Portuguese - Felipe Scagliusi - 7 erros que adultos cometem ao aprender piano (e como evitá-los) - 7 mistakes that adults do while learning the piano (and how to avoid them) <br>
+  [https://www.youtube.com/watch?v=t19SN9LgjeQ](https://www.youtube.com/watch?v=t19SN9LgjeQ)
+
 
 ## How to start learning the piano even if you don’t have a piano, the paper piano
 
