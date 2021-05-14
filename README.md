@@ -473,6 +473,9 @@ by Hal Leonard Corp., Frederick Noad
 
 ## Especially good lessons
 
+* Bradford Werner - 10 Classical Guitar Lessons for Beginners <br>
+  [https://www.thisisclassicalguitar.com/10-classical-guitar-lessons-for-beginners/](https://www.thisisclassicalguitar.com/10-classical-guitar-lessons-for-beginners/)
+
 * 5 DIY Guitar Hacks - Hannah Murphy <br>
   [https://www.youtube.com/watch?v=xh0O_5dlumk&list=PLKwssySZ-oocYh1JVRSdpznzRRSkrS2BU&index=4](https://www.youtube.com/watch?v=xh0O_5dlumk&list=PLKwssySZ-oocYh1JVRSdpznzRRSkrS2BU&index=4)
 
