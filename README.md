@@ -441,6 +441,9 @@ by Hal Leonard Corp., Frederick Noad
 * Siccas Guitars - The world's finest guitars - Classical guitar videos weekly <br>
   [https://www.youtube.com/channel/UCR39sLAZ5wS_vrMo4tRylHw](https://www.youtube.com/channel/UCR39sLAZ5wS_vrMo4tRylHw)
 
+* This is Classical Guitar - Video Play List - Classical Guitar <br>
+  [https://www.youtube.com/playlist?list=PLVzwBH6y7aM76c6yXmYKV0eh0mw-8phVN](https://www.youtube.com/playlist?list=PLVzwBH6y7aM76c6yXmYKV0eh0mw-8phVN)
+
 
 ## Youtube guitar courses or lessons
 
