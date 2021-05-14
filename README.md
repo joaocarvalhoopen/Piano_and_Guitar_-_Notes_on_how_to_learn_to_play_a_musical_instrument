@@ -1110,6 +1110,9 @@ See the video description to know the music / composition that is being played a
 
 ## Good youtube videos
 
+* LeCheileMusic - 5 Sneaky Ways to Build a Regular Practice Habit <br>
+  [https://www.youtube.com/watch?v=L0fPoyONZt8](https://www.youtube.com/watch?v=L0fPoyONZt8)
+
 * NewJazz - The Bad Tapping Habit Pad <br>
   The SECRET to become FAST & STEADY on the PIANO <br>
   [https://www.youtube.com/watch?v=B0GK-TMLYpg](https://www.youtube.com/watch?v=B0GK-TMLYpg) 
