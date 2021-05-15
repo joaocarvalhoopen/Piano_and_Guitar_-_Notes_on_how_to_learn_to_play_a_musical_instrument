@@ -438,11 +438,21 @@ by Hal Leonard Corp., Frederick Noad
 
 ## Youtube excellent guitar performances
 
+* History of the Classical Guitar in 16 minutes with 100 Pieces - 
+Microtonal Guitar - Tolgahan Çoğulu <br>
+  [https://www.youtube.com/watch?v=dPR38BvVvNM](https://www.youtube.com/watch?v=dPR38BvVvNM)
+
 * Siccas Guitars - The world's finest guitars - Classical guitar videos weekly <br>
   [https://www.youtube.com/channel/UCR39sLAZ5wS_vrMo4tRylHw](https://www.youtube.com/channel/UCR39sLAZ5wS_vrMo4tRylHw)
 
 * This is Classical Guitar - Video Play List - Classical Guitar <br>
   [https://www.youtube.com/playlist?list=PLVzwBH6y7aM76c6yXmYKV0eh0mw-8phVN](https://www.youtube.com/playlist?list=PLVzwBH6y7aM76c6yXmYKV0eh0mw-8phVN)
+
+* 100 Classical Guitar Videos in 100 Days. Compilation of Classic Guitar Repertoire. - Gallery of Guitar <br>
+  [https://www.youtube.com/watch?v=6tw_5AH33SI](https://www.youtube.com/watch?v=6tw_5AH33SI)
+
+* The History of Guitar - Rob Scallon <br>
+  [https://www.youtube.com/watch?v=AjK4GVR1EcE](https://www.youtube.com/watch?v=AjK4GVR1EcE)
 
 
 ## Youtube guitar courses or lessons
@@ -1057,6 +1067,9 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
 ## Discover good music for piano of all periods
 
 See the video description to know the music / composition that is being played and then go the next step and find on youtube the best interpretations or recordings of each music, compositio or concerto. <br>
+
+* 100 Classical Piano Pieces - HalidonMusic <br>
+  [https://www.youtube.com/watch?v=dA4Tnq1cALY](https://www.youtube.com/watch?v=dA4Tnq1cALY)
 
 * Piano Solo: Chopin, Debussy, Liszt, Mozart, Beethoven... <br>
   [https://www.youtube.com/watch?v=PJL_mVgT0Ao](https://www.youtube.com/watch?v=PJL_mVgT0Ao)
