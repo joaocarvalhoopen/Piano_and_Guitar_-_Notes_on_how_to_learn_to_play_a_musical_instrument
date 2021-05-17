@@ -1068,6 +1068,9 @@ See all the videos from the music Youtube channel LeCheileMusic <br>
 
 See the video description to know the music / composition that is being played and then go the next step and find on youtube the best interpretations or recordings of each music, compositio or concerto. <br>
 
+* Two Hours of Happy Piano Music - Dan Musselman <br>
+  [https://www.youtube.com/watch?v=rCHMqrkoyFA](https://www.youtube.com/watch?v=rCHMqrkoyFA)
+
 * 100 Classical Piano Pieces - HalidonMusic <br>
   [https://www.youtube.com/watch?v=dA4Tnq1cALY](https://www.youtube.com/watch?v=dA4Tnq1cALY)
 
