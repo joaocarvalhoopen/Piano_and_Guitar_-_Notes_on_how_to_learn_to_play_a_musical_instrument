@@ -43,9 +43,11 @@ My notes for the intrepid adventurer!
   - [Piano forums](#piano-forums)
 - [Finding a good and cheap Audio Interface that works on Linux](#finding-a-good-and-cheap-audio-interface-that-works-on-linux)
 - [Finding a good and cheap microphone for vocals and classical or acustic guitar](#finding-a-good-and-cheap-microphone-for-vocals-and-classical-or-acustic-guitar)
+- [How to record or play live an Acoustic Guitar from a piezo pickup - Impulse Response](#how-to-record-or-play-live-an-acoustic-guitar-from-a-piezo-pickup---impulse-response)
 - [Configuring all things to work on Linux (Ubuntu / Debian) with open source software](#configuring-all-things-to-work-on-linux-ubuntu--debian-with-open-source-software)
 - [Disclaimer](#disclaimer)
 - [License](#license)
+- [All my other guides](#all-my-other-guides)
 - [Have fun!](#have-fun)
 
 
@@ -1187,6 +1189,29 @@ From what I can search and in my opinion, a good one on the cheaper side of thin
   [https://www.thomann.de/the_tbone_sc400_popkiller.htm](https://www.thomann.de/the_tbone_sc400_popkiller.htm) 
 
 
+# How to record or play live an Acoustic Guitar from a piezo pickup - Impulse Response
+
+The sound from the piezo isn't a real replica of the sound of the instrument that you listen directly from the instrument. So you will need to record some WAV files from it and from a condenser microphone simultaneouslly. Then calculate with a small program the impulse response (IR) that will transform the linear "distorted" piezo output into the sound that the instrument acustically produces, and that you can listen to. The IR is then applyed to the guitar recording track, or you can use a IR speaker simulator like Two Notes Torpedo C.A.B. M+ Speaker Sim, this will enable you to apply it in real time to you sound and make the transformation (convolution of the IR). The ToneDexter from Audio Sprockets does this in a one stop solution. But you have the option to choose between the three possibilities ... apply the IR on the computer, realtime on a speaker simulator. or use the ToneDexter that does all the process. But read on the technical details about the subject, because they are really interesting.<br>
+<br> 
+
+* Acoustic IR <br>
+  [http://acousticir.free.fr/](http://acousticir.free.fr/)
+
+* Jon Fields open source algorithm <br>
+  [http://acousticir.free.fr/spip.php?article136](http://acousticir.free.fr/spip.php?article136)
+
+* Doug Young IR comparisson <br>
+  [https://www.acousticguitarforum.com/forums/showpost.php?p=6278203&postcount=12](https://www.acousticguitarforum.com/forums/showpost.php?p=6278203&postcount=12)
+
+* For realtime processing you can load the IR - Impulse Response into the Two Notes Torpedo C.A.B. M+ Speaker Sim.
+
+* James May Interview with Aaron Short Music <br>
+  [https://www.youtube.com/playlist?list=PLLjzz35wt_751gL6LJIs_1KPZ2WcCSM0t](https://www.youtube.com/playlist?list=PLLjzz35wt_751gL6LJIs_1KPZ2WcCSM0t)
+
+* ToneDexter - Audio Sprockets <br>
+  [https://audiosprockets.com/](https://audiosprockets.com/)
+
+
 # Configuring all things to work on Linux (Ubuntu / Debian) with open source software
 
 To see how to configure all the open source programs, study the following web pages and youtube videos: <br>
@@ -1228,6 +1253,13 @@ I talk about diferente products, because after a long and dificult search for go
 
 The text of this notes is on Creative Commons License. <br>
 They are only my notes and may not be 100% accurate, so double check them, use them only as an indicator, not has something written in stone.
+
+
+# All my other guides
+
+* The links to all my guides are in: <br>
+  **Guides on Linux - Programming - Embedded - Electronics - Aeronautics** <br>
+  [https://github.com/joaocarvalhoopen/Guides_Linux-Programming-Electronics-Aeronautics](https://github.com/joaocarvalhoopen/Guides_Linux-Programming-Electronics-Aeronautics)
 
 
 # Have fun!
