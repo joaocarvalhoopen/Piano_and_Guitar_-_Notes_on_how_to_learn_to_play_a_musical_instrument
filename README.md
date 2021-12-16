@@ -12,6 +12,7 @@ My notes for the intrepid adventurer!
   - [Sites](#sites)
 - [Ear training and sight singing](#ear-training-and-sight-singing)
   - [Books](#books-1)
+- [Psychoacoustics - Audio Illusions](#psychoacoustics---audio-illusions)
 - [Guitar](#guitar)
   - [Finding a good and economic guitar](#finding-a-good-and-economic-guitar)
   - [Solutions for the big hands or the fat fingers problem.](#solutions-for-the-big-hands-or-the-fat-fingers-problem)
@@ -188,6 +189,19 @@ Ear training is an important thing to work on because it helps a lot in the proc
 
 * Music for Analysis: Examples from the Common Practice Period and the Twentieth Century <br>
   by Thomas Benjamin, Michael Horvit, et al.
+
+
+<br>
+
+---
+
+<br>
+
+
+# Psychoacoustics - Audio Illusions 
+
+* Play List - 42 Audio Illusions & Phenomena -- Psychoacoustics <br>
+  [https://www.youtube.com/playlist?list=PL618khw0A-t51dsZ8DQK5fYkwrowtFYKn](https://www.youtube.com/playlist?list=PL618khw0A-t51dsZ8DQK5fYkwrowtFYKn)
 
 
 <br>
